@@ -1,0 +1,207 @@
+{
+  "domain": "weekendercase",
+  "niche": "Haute Leathercraft & Bespoke Weekender Case",
+  "design_concept": "Nordic Vanguard & Minimalist Organic",
+  "archetype_id": "nordic_organic",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "atelier_leather_bag_curation.jpg",
+      "size_kb": 87.57,
+      "md5": "299cc47243ef3f3badf625f081cfae45",
+      "description": "Curated atelier leather handbag collection and polished brass hardware",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "structured_luxury_crossbody.jpg",
+      "size_kb": 54.41,
+      "md5": "974766cafd4190ad42b4e1fa188de464",
+      "description": "Structured architectural crossbody bag with braided leather strap accents",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "crimson_woven_leather_clutch.jpg",
+      "size_kb": 80.39,
+      "md5": "bc3b327ddfae2988182430c6c08063f6",
+      "description": "Crimson glazed lambskin braided clutch bag on minimalist pedestal",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "caramel_leather_satchel_study.jpg",
+      "size_kb": 81.79,
+      "md5": "30c61b770b74a3ff45c3dde36f19a52a",
+      "description": "Caramel calfskin leather handbag resting beside architectural lookbook",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "haute_maroquinerie_workshop_bench.jpg",
+      "size_kb": 158.52,
+      "md5": "138552acfdafde1e19646f615207eabd",
+      "description": "Artisan workbench featuring leathercraft awls, edge bevelers, and bag patterns",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "couture_leather_tote_drape.jpg",
+      "size_kb": 136.68,
+      "md5": "b8c1b9168a025ce3ce4dc575b15b3a1e",
+      "description": "Supple calfskin woven shoulder bag draped on atelier pedestal",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "structured_leather_travel_bag.jpg",
+      "size_kb": 55.58,
+      "md5": "2be525b5988a59d77a7d76c71aed2495",
+      "description": "Structured full-grain leather overnight bag with reinforced corner braiding",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "monochrome_black_luxury_tote.jpg",
+      "size_kb": 81.02,
+      "md5": "6ce86b6a2776ec9e293cfcc39a9881b5",
+      "description": "Matte black architectural leather tote bag in luxury boutique",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "minimalist_tan_leather_bag_interior.jpg",
+      "size_kb": 122.95,
+      "md5": "28cf82ece9c31fff7dcee1b62b9390a3",
+      "description": "Sculptural tan calfskin bag arranged in luxury atelier display",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "neutral_aesthetic_bag_styling.jpg",
+      "size_kb": 81.53,
+      "md5": "fae4536fe0c74274911db17cf68a9aa0",
+      "description": "Neutral tone leather accessory styled in architectural interior",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "olive_green_crossbody_purse.jpg",
+      "size_kb": 91.37,
+      "md5": "dd42b0836b14359b9ebe53c254d88849",
+      "description": "Olive green calfskin mini flap crossbody bag",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "taupe_leather_handbag_studio.jpg",
+      "size_kb": 37.47,
+      "md5": "0cdbb7bec6c78ea8b9930869b3943933",
+      "description": "Taupe grey Saffiano structured handbag in studio light",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "terracotta_leather_crossbody_strap.jpg",
+      "size_kb": 186.56,
+      "md5": "8b287c6c369bc983db9cf8388524ffff",
+      "description": "Terracotta calfskin crossbody bag with contrast stitching",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "red_leather_designer_shoulder_bag.jpg",
+      "size_kb": 40.9,
+      "md5": "0cac1f9dd749354b8c9e4f401f8fa382",
+      "description": "Crimson red patent leather designer shoulder bag",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "sculptural_leather_bucket_bag.jpg",
+      "size_kb": 102.24,
+      "md5": "be3048b1ce9bf4ff8342838e5d3927fa",
+      "description": "Architectural black leather bucket bag with top handle",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "cognac_leather_briefcase_attache.jpg",
+      "size_kb": 81.07,
+      "md5": "10c4a4cac806c2bfe8a836ad16793171",
+      "description": "Handmade Italian cognac leather business attach\u00e9 case",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "saffiano_clutch.jpg",
+      "size_kb": 89.78,
+      "md5": "7c7df52573c23f796fe2ec9547d73b1a",
+      "description": "Saffiano clutch",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "stylish_leather_fashion_tote.jpg",
+      "size_kb": 159.79,
+      "md5": "a76e9058a7a31344afdeacdaedfa1f42",
+      "description": "Stylish street fashion with leather tote bag",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "black_jacket_bag.jpg",
+      "size_kb": 216.91,
+      "md5": "483342cc4e6e652dc877af45b6aef310",
+      "description": "Black jacket with bag",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "artisan_leather_clutch_pouch.jpg",
+      "size_kb": 110.51,
+      "md5": "6c2d12af3c47a811780fb52dac3b46ca",
+      "description": "Cosmetics case",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://weekendercase.com/sitemap.xml",
+    "robots": "https://weekendercase.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
